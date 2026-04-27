@@ -1,47 +1,72 @@
-# Leo Pan
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Leo+Pan;MIS+%C3%97+AI+%40+NCCU;LangGraph+%C2%B7+RAG+%C2%B7+FastAPI;Building+AI+that+works+in+the+real+world)](https://github.com/jxuan083)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=jxuan083&color=58A6FF&style=flat-square)](https://github.com/jxuan083)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jensyuan-pan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jensyuan.pan@gmail.com)
+
+</div>
+
+---
+
+### About Me
 
 MIS + AI double major at NCCU (GPA 4.1/4.3). I work at the intersection of AI systems and business decisions — building pipelines that engineers can ship and stakeholders can understand.
 
-Incoming AI Intern @ Advantech · AMCIS 2026 Published · TOEIC 865
+- Incoming AI Intern @ **Advantech** (2026/06)
+- Built enterprise Agentic RAG for **CTBC Bank** — currently used by 10 internal staff
+- Published @ **AMCIS 2026** (second author)
+- Political meme AI: accuracy **35% → 95%** on AMD MI300X
 
 ---
 
-## Experience
+### Tech Stack
 
-**FutureNest Technology — FAE Intern** (2025/11–present)  
-Built an enterprise Agentic RAG system for CTBC Bank's internal credit review workflows using LangGraph, Azure AI Search, and Cosmos DB. System currently used by 10 internal staff. Evaluated 10+ Azure services; led architecture reviews with IBM and Microsoft engineers. Wrote a 15-page technical proposal with multi-layer DFD that secured stakeholder sign-off.
+**AI / ML**
 
-**Advantech — AI Intern, IT AI Center** (2026/06, incoming)  
-Joining to work on enterprise AI Agent deployment across HR, FAE, PD, and RD functions. Stack: Microsoft AI Builder, LangGraph, Gemini, RAG.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
----
+**Cloud & Data**
 
-## Selected Work
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Political Meme Recognition AI** × AMD NICS  
-Fine-tuned vision model on AMD MI300X. Accuracy: 35% → 95%. Invited by NICS lab to co-author an academic paper.
+**Frontend & Tools**
 
-**AMCIS 2026 — Second Author**  
-"Choice Architecture for Co-Presence: A Design Science Research on Phubbing." Synthesized 40+ papers; built a 4-stage ADR framework for reducing smartphone overuse in social settings.
-
-**Notion × LINE Automation Bot**  
-Pulls daily task list from Notion and delivers it via LINE every morning. [[repo]](https://github.com/jxuan083/notion-line-bot)
-
----
-
-## Stack
-
-```
-AI/ML        LangGraph · RAG · LLM Fine-tuning · Prompt Engineering · MCP
-Cloud        Azure (AI Search, Cosmos DB) · GCP
-Backend      Python · FastAPI · REST API
-Frontend     React · TypeScript · JavaScript
-Tools        Git · SQL · Notion API · LINE API
-```
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Credentials
+### GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxuan083&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/jxuan083)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jxuan083&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jxuan083)
+
+</div>
+
+---
+
+### Contribution
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/jxuan083/jxuan083/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### Credentials
 
 | | |
 |--|--|
@@ -50,7 +75,3 @@ Tools        Git · SQL · Notion API · LINE API
 | Yuanta Futures Competition | 12th / 1,277 (Top 1%) |
 | Capital Futures Competition | Top 5 |
 | InnoFest Popular Award | Top 3 |
-
----
-
-**Email:** jensyuan.pan@gmail.com · **Location:** Taipei, Taiwan
