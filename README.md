@@ -15,7 +15,7 @@
 MIS + AI double major at NCCU (GPA 4.1/4.3). I work at the intersection of AI systems and business decisions — building pipelines that engineers can ship and stakeholders can understand.
 
 - Incoming AI Intern @ **Advantech** (2026/06)
-- Built enterprise Agentic RAG for **CTBC Bank** — currently used by 10 internal staff
+- Built enterprise Agentic RAG for **CTBC Bank** — currently used by 10+ internal staff
 - Published @ **AMCIS 2026** (second author)
 - Political meme AI: accuracy **35% → 95%** on AMD MI300X
 
