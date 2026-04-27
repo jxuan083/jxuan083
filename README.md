@@ -44,18 +44,6 @@ MIS + AI double major at NCCU (GPA 4.1/4.3). I work at the intersection of AI sy
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxuan083&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/jxuan083)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jxuan083&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jxuan083)
-
-</div>
-
----
-
 ### Contribution
 
 <div align="center">
