@@ -66,6 +66,13 @@ MIS + AI double major at NCCU (GPA 4.1/4.3). I work at the intersection of AI sy
 
 ---
 
+### Featured
+
+[![jensyuanresume](https://github-readme-stats.vercel.app/api/pin/?username=jxuan083&repo=jensyuanresume&theme=tokyonight&hide_border=true)](https://github.com/jxuan083/jensyuanresume)
+[![notion-line-bot](https://github-readme-stats.vercel.app/api/pin/?username=jxuan083&repo=notion-line-bot&theme=tokyonight&hide_border=true)](https://github.com/jxuan083/notion-line-bot)
+
+---
+
 ### Credentials
 
 | | |
